@@ -1,6 +1,4 @@
-# Examen de Configuración de Red
-
-Este es un examen práctico que documenta la configuración de routers, switches y PCs para establecer una red funcional. A continuación se detallan las configuraciones, conexiones y el estado actual del proyecto.
+# Examen
 
 ## Configuración de los Routers
 
