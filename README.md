@@ -1,36 +1,9 @@
 # Examen
-
-## Configuración de los Routers
-
-![Comandos desde terminal](./imagenes/examen1.png)
-
-Se utilizó la configuración mostrada en la imagen para cada router. Cada router se conecta a través de una red **Clase A** usando una conexión **WAN** y está conectado a los routers de manera **serial** para garantizar que las conexiones entre ellos sean posibles.
-
-## Conexión entre Routers, Switches y PCs
-
-![Comandos desde terminal](./imagenes/examen2.png)
-
-En esta imagen, se muestra la conexión entre los **routers**, **switches** y **PCs**. Cada dispositivo está configurado para poder comunicarse entre sí, lo que permite una red funcional.
-
-## Conexión de los Routers a los Switches
-
-![Comandos desde terminal](./imagenes/examen3.png)
-
-Aquí se puede ver cómo se conecta cada **router** a un **switch** para usar las interfaces **FastEthernet**. Esta conexión es similar para todos los switches, cambiando las direcciones según sea necesario para que las conexiones funcionen correctamente.
-
-## Configuración Estática de las PCs
-
-![Comandos desde terminal](./imagenes/examen4.png)
-
-En esta sección se observa la configuración estática de las direcciones IP para cada una de las **PCs**, asegurando que puedan comunicarse correctamente y transferir archivos entre ellas. Sin embargo, a pesar de la configuración correcta, actualmente las PCs no pueden realizar un **ping** entre ellas.
-
-## Problema y Solución Pendiente
-
-A pesar de que la configuración parece correcta, las PCs no pueden hacer **ping** entre ellas. Esto indica que hay algún problema en la comunicación entre los dispositivos de la red. Se necesita revisar y solucionar este problema para que las PCs puedan intercambiar archivos correctamente.
-
-### Tareas pendientes:
-- Verificar la conectividad entre las PCs y los routers.
-- Revisión de las tablas de enrutamiento.
-- Asegurar que las direcciones IP y las máscaras de subred estén configuradas correctamente.
-- Solucionar cualquier posible conflicto de configuración o de hardware.
-
+![comandos desde terminal](./imagenes/examen1.png)
+Como se puede ver use esta configuracion para cada router y conectarlo ya es es Clase A y es un WAN y esta conectado con cada router de forma serial para que pueda a ver conexiones entre ellos.
+![comandos desde terminal](./imagenes/examen2.png)
+aqui se pueda apreciar la conexion entre los routers y swicths y PC que a continuacion se mostrara su conexion de cada uno.
+![comandos desde terminal](./imagenes/examen3.png)
+Esta es la conexion de router a un switch para el uso de FastEthernet que lleva de igual froma la conexion entre todos los swhitchs cambiando obviamente las direcciones para que funcione de forma correcta.
+![comandos desde terminal](./imagenes/examen4.png)
+Aqui se ve la conexicion estatica de cada uno de lass PC,s para que este funcionando correctamente y se envien archivos mutuamente. al parcer todo esta bien pero algo esta fallando entre las comunicaciones y no pueden hacer "ping" las computadoras que eso tengo que ver el problema y solucionarlo.
